@@ -1,0 +1,1 @@
+A small score keeper app made with vanilla js.
